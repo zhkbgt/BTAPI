@@ -1,0 +1,6 @@
+framework module BTAPI {
+  umbrella header "BTAPI.h"
+
+  export *
+  module * { export * }
+}
